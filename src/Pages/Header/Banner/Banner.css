@@ -1,0 +1,11 @@
+.banner-style {
+  background-image: url(../../../Image/bannerbackground.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner-text {
+  text-align: center;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
